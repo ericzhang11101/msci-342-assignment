@@ -6,3 +6,5 @@ let config = {
 };
  
 module.exports = config;
+as = 2;
+//A change
