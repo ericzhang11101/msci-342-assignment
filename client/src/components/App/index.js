@@ -33,6 +33,7 @@ class App extends Component {
     return (
 	  <Router>
 	    <div>
+        <h1>ERIC</h1>
         <PrivateRoute exact path="/" component={Home}/>
 	    </div>
 	  </Router>
