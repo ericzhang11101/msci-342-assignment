@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  height: 100vh;
+  width: 100vw;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.layout-main{
+  height: 100%;
+  width: 100%;
+  display: flex;
+  box-sizing: border-box;
+  justify-content: center;
+}
