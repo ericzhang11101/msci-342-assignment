@@ -38,9 +38,7 @@ export default function Home() {
           </h3>
           <Divider></Divider>
           <p className={'mt-5 text-start w-75 h6'}>
-            Management Engineering began as Waterloo'sversion ofan ndustrial Engineering program
-            Since then.courses have evolved to focus onbringing problem solving and decision making toany industryur courses include operationsresearch,optimization, statistics, software
-            development and design.
+            Management Engineering is a program that provides undergraduate students with an interdisciplinary engineering education that covers a wide range of information from social sciences, decision making and optimizing operations. Students can use this knowledge to design, implement and manage complex real-world questions upon which organizations depend.
           </p>
         </Grid>
         <Grid item xs={6} className={'h-100 p-5'}>
